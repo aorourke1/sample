@@ -1,0 +1,156 @@
+Bark & Bite,metal,400,Ore Else What,metal,100
+Feast & Famine,ammunition,100,Shells Kitchen,food,150
+Bark & Bite,ammunition,100,Shells Kitchen,wood,100
+Fossil Foolery,medicine,100,Dr. Feelgood's Placebo Emporium,fuel,50
+Feast & Famine,wood,100,Bark & Bite,food,50
+Ore Else What,food,150,Feast & Famine,metal,100
+Shells Kitchen,wood,150,Bark & Bite,ammunition,50
+Fossil Foolery,medicine,150,Dr. Feelgood's Placebo Emporium,fuel,50
+Ore Else What,food,50,Feast & Famine,metal,150
+Bark & Bite,metal,100,Ore Else What,wood,150
+Dr. Feelgood's Placebo Emporium,food,150,Feast & Famine,medicine,50
+Dr. Feelgood's Placebo Emporium,metal,150,Ore Else What,medicine,150
+Fossil Foolery,wood,150,Bark & Bite,fuel,50
+Ore Else What,wood,150,Bark & Bite,metal,100
+Bark & Bite,food,150,Feast & Famine,wood,100
+Feast & Famine,ammunition,100,Shells Kitchen,food,150
+Dr. Feelgood's Placebo Emporium,wood,100,Bark & Bite,medicine,50
+Shells Kitchen,metal,150,Ore Else What,ammunition,150
+Shells Kitchen,fuel,100,Fossil Foolery,ammunition,150
+Ore Else What,food,50,Feast & Famine,metal,100
+Fossil Foolery,ammunition,150,Shells Kitchen,fuel,50
+Ore Else What,ammunition,50,Shells Kitchen,metal,50
+Feast & Famine,wood,150,Bark & Bite,food,150
+Dr. Feelgood's Placebo Emporium,wood,50,Bark & Bite,medicine,100
+Shells Kitchen,medicine,100,Dr. Feelgood's Placebo Emporium,ammunition,50
+Fossil Foolery,medicine,150,Dr. Feelgood's Placebo Emporium,fuel,100
+Bark & Bite,medicine,150,Dr. Feelgood's Placebo Emporium,wood,100
+Dr. Feelgood's Placebo Emporium,wood,150,Bark & Bite,medicine,50
+Shells Kitchen,wood,150,Bark & Bite,ammunition,50
+Dr. Feelgood's Placebo Emporium,ammunition,150,Shells Kitchen,medicine,100
+Bark & Bite,ammunition,100,Shells Kitchen,wood,50
+Bark & Bite,fuel,150,Fossil Foolery,wood,150
+Fossil Foolery,wood,50,Bark & Bite,fuel,150
+Ore Else What,fuel,50,Fossil Foolery,metal,100
+Fossil Foolery,metal,50,Ore Else What,fuel,50
+Bark & Bite,ammunition,50,Shells Kitchen,wood,150
+Shells Kitchen,medicine,50,Dr. Feelgood's Placebo Emporium,ammunition,150
+Feast & Famine,fuel,150,Fossil Foolery,food,50
+Dr. Feelgood's Placebo Emporium,fuel,350,Fossil Foolery,fuel,50
+Shells Kitchen,metal,150,Ore Else What,ammunition,50
+Dr. Feelgood's Placebo Emporium,food,100,Feast & Famine,medicine,50
+Feast & Famine,medicine,100,Dr. Feelgood's Placebo Emporium,food,50
+Fossil Foolery,medicine,100,Dr. Feelgood's Placebo Emporium,fuel,50
+Fossil Foolery,wood,50,Bark & Bite,fuel,150
+Ore Else What,food,250,Feast & Famine,food,50
+Shells Kitchen,fuel,150,Fossil Foolery,ammunition,150
+Bark & Bite,ammunition,150,Shells Kitchen,wood,100
+Fossil Foolery,food,50,Feast & Famine,fuel,50
+Shells Kitchen,medicine,150,Dr. Feelgood's Placebo Emporium,ammunition,50
+Fossil Foolery,metal,50,Ore Else What,fuel,100
+Feast & Famine,fuel,50,Fossil Foolery,food,150
+Feast & Famine,medicine,350,Dr. Feelgood's Placebo Emporium,medicine,100
+Feast & Famine,fuel,50,Fossil Foolery,food,100
+Fossil Foolery,food,50,Feast & Famine,fuel,150
+Ore Else What,food,100,Feast & Famine,metal,150
+Bark & Bite,metal,50,Ore Else What,wood,100
+Dr. Feelgood's Placebo Emporium,metal,100,Ore Else What,medicine,100
+Ore Else What,fuel,150,Fossil Foolery,metal,50
+Feast & Famine,medicine,100,Dr. Feelgood's Placebo Emporium,food,100
+Fossil Foolery,food,150,Feast & Famine,fuel,50
+Ore Else What,fuel,150,Fossil Foolery,metal,50
+Fossil Foolery,wood,150,Bark & Bite,fuel,100
+Shells Kitchen,medicine,150,Dr. Feelgood's Placebo Emporium,ammunition,100
+Dr. Feelgood's Placebo Emporium,wood,50,Bark & Bite,medicine,50
+Feast & Famine,fuel,300,Fossil Foolery,fuel,150
+Fossil Foolery,medicine,100,Dr. Feelgood's Placebo Emporium,fuel,100
+Dr. Feelgood's Placebo Emporium,fuel,150,Fossil Foolery,medicine,100
+Feast & Famine,metal,50,Ore Else What,food,50
+Bark & Bite,metal,50,Ore Else What,wood,150
+Feast & Famine,fuel,50,Fossil Foolery,food,100
+Fossil Foolery,wood,150,Bark & Bite,fuel,100
+Ore Else What,ammunition,150,Shells Kitchen,ammunition,50
+Bark & Bite,food,150,Feast & Famine,wood,150
+Ore Else What,wood,100,Bark & Bite,metal,50
+Fossil Foolery,metal,50,Ore Else What,fuel,50
+Ore Else What,food,50,Feast & Famine,metal,100
+Feast & Famine,wood,100,Bark & Bite,wood,50
+Feast & Famine,medicine,50,Dr. Feelgood's Placebo Emporium,food,100
+Dr. Feelgood's Placebo Emporium,wood,100,Bark & Bite,medicine,100
+Fossil Foolery,food,100,Feast & Famine,fuel,100
+Dr. Feelgood's Placebo Emporium,ammunition,50,Shells Kitchen,medicine,100
+Fossil Foolery,food,50,Feast & Famine,fuel,50
+Shells Kitchen,fuel,50,Fossil Foolery,ammunition,100
+Fossil Foolery,medicine,150,Dr. Feelgood's Placebo Emporium,fuel,100
+Feast & Famine,metal,150,Ore Else What,food,100
+Bark & Bite,medicine,100,Dr. Feelgood's Placebo Emporium,wood,50
+Shells Kitchen,medicine,50,Dr. Feelgood's Placebo Emporium,ammunition,100
+Shells Kitchen,food,150,Feast & Famine,ammunition,100
+Dr. Feelgood's Placebo Emporium,metal,100,Ore Else What,medicine,50
+Bark & Bite,metal,100,Ore Else What,wood,150
+Ore Else What,ammunition,100,Shells Kitchen,metal,150
+Ore Else What,fuel,100,Fossil Foolery,metal,100
+Feast & Famine,ammunition,150,Shells Kitchen,food,150
+Fossil Foolery,metal,400,Ore Else What,metal,150
+Feast & Famine,wood,50,Bark & Bite,food,150
+Shells Kitchen,medicine,150,Dr. Feelgood's Placebo Emporium,ammunition,100
+Dr. Feelgood's Placebo Emporium,wood,100,Bark & Bite,medicine,50
+Dr. Feelgood's Placebo Emporium,metal,100,Ore Else What,medicine,150
+Feast & Famine,wood,50,Bark & Bite,food,100
+Shells Kitchen,metal,100,Ore Else What,ammunition,150
+Shells Kitchen,fuel,300,Fossil Foolery,fuel,150
+Bark & Bite,fuel,150,Fossil Foolery,wood,150
+Ore Else What,food,150,Feast & Famine,metal,50
+Bark & Bite,fuel,100,Fossil Foolery,wood,50
+Feast & Famine,ammunition,50,Shells Kitchen,food,50
+Feast & Famine,fuel,50,Fossil Foolery,food,100
+Dr. Feelgood's Placebo Emporium,ammunition,50,Shells Kitchen,medicine,50
+Feast & Famine,ammunition,200,Shells Kitchen,ammunition,150
+Feast & Famine,ammunition,50,Shells Kitchen,food,100
+Feast & Famine,medicine,100,Dr. Feelgood's Placebo Emporium,food,100
+Ore Else What,medicine,250,Dr. Feelgood's Placebo Emporium,medicine,100
+Dr. Feelgood's Placebo Emporium,food,150,Feast & Famine,medicine,150
+Shells Kitchen,metal,100,Ore Else What,ammunition,100
+Dr. Feelgood's Placebo Emporium,metal,50,Ore Else What,medicine,50
+Shells Kitchen,medicine,50,Dr. Feelgood's Placebo Emporium,ammunition,100
+Ore Else What,fuel,50,Fossil Foolery,metal,100
+Dr. Feelgood's Placebo Emporium,wood,100,Bark & Bite,wood,50
+Fossil Foolery,ammunition,100,Shells Kitchen,fuel,50
+Dr. Feelgood's Placebo Emporium,wood,100,Bark & Bite,medicine,150
+Dr. Feelgood's Placebo Emporium,food,150,Feast & Famine,medicine,50
+Shells Kitchen,food,150,Feast & Famine,ammunition,150
+Ore Else What,ammunition,150,Shells Kitchen,metal,100
+Shells Kitchen,food,50,Feast & Famine,ammunition,100
+Bark & Bite,ammunition,50,Shells Kitchen,wood,50
+Shells Kitchen,metal,100,Ore Else What,ammunition,100
+Ore Else What,medicine,50,Dr. Feelgood's Placebo Emporium,metal,150
+Bark & Bite,food,50,Feast & Famine,wood,150
+Ore Else What,fuel,100,Fossil Foolery,metal,100
+Ore Else What,wood,50,Bark & Bite,metal,150
+Dr. Feelgood's Placebo Emporium,food,100,Feast & Famine,medicine,100
+Ore Else What,medicine,50,Dr. Feelgood's Placebo Emporium,metal,150
+Dr. Feelgood's Placebo Emporium,wood,50,Bark & Bite,medicine,50
+Bark & Bite,ammunition,400,Shells Kitchen,ammunition,150
+Feast & Famine,metal,150,Ore Else What,food,100
+Ore Else What,wood,150,Bark & Bite,metal,100
+Shells Kitchen,fuel,150,Fossil Foolery,ammunition,50
+Dr. Feelgood's Placebo Emporium,metal,100,Ore Else What,medicine,150
+Shells Kitchen,fuel,100,Fossil Foolery,ammunition,50
+Fossil Foolery,wood,100,Bark & Bite,fuel,50
+Feast & Famine,wood,50,Bark & Bite,food,50
+Fossil Foolery,ammunition,100,Shells Kitchen,fuel,50
+Shells Kitchen,wood,100,Bark & Bite,ammunition,50
+Bark & Bite,food,50,Feast & Famine,wood,100
+Shells Kitchen,medicine,50,Dr. Feelgood's Placebo Emporium,ammunition,100
+Feast & Famine,wood,50,Bark & Bite,food,100
+Ore Else What,fuel,100,Fossil Foolery,metal,50
+Bark & Bite,ammunition,150,Shells Kitchen,wood,150
+Shells Kitchen,metal,100,Ore Else What,ammunition,50
+Dr. Feelgood's Placebo Emporium,fuel,50,Fossil Foolery,medicine,50
+Shells Kitchen,food,50,Feast & Famine,ammunition,150
+Shells Kitchen,fuel,150,Fossil Foolery,ammunition,150
+Feast & Famine,fuel,100,Fossil Foolery,food,100
+Ore Else What,fuel,100,Fossil Foolery,metal,50
+Ore Else What,medicine,100,Dr. Feelgood's Placebo Emporium,metal,100
+Bark & Bite,medicine,150,Dr. Feelgood's Placebo Emporium,wood,100
+Dr. Feelgood's Placebo Emporium,fuel,50,Fossil Foolery,medicine,100

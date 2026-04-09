@@ -1,0 +1,6 @@
+Feast & Famine,food,6000
+Dr. Feelgood's Placebo Emporium,medicine,6000
+Shells Kitchen,ammunition,6000
+Fossil Foolery,fuel,6000
+Bark & Bite,wood,6000
+Ore Else What,metal,6000
